@@ -1,4 +1,8 @@
 import React from 'react';
+import {
+  Link,
+} from "react-router-dom";
+
 import virus_gif from '../images/virus.gif';
 
 const Poster = props => (
@@ -8,7 +12,7 @@ const Poster = props => (
       <h1 className="world">Vs. The World</h1>
     </div>
     <div className="content-1">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+      Lorem ipsum dolor sit amet, <Link style={{ textDecoration: 'none' }} to="/popup"><span class="link">consectetur</span></Link> adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
       Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Mattis nunc sed blandit libero volutpat sed cras ornare arcu. 
       Lacus vestibulum sed arcu non odio euismod. Amet nisl suscipit adipiscing bibendum est. Suspendisse potenti nullam ac tortor 
       vitae purus faucibus. Urna id volutpat lacus laoreet non curabitur. Arcu bibendum at varius vel. Congue quisque egestas diam 

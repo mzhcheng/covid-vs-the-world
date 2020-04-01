@@ -5,6 +5,8 @@
 
 $color-dark: #212121;
 $color-light: #484848;
+$link-red: #EF9A9A;
+$link-hover-red: #E57373;
 
 .poster-body {
   display: grid;
@@ -38,6 +40,12 @@ $color-light: #484848;
     grid-column: 1 / 2;
     grid-row: 2 / 4;
     justify-self: center;
+  }
+  .link {
+    color: $link-red;
+    &:hover {
+      color: $link-hover-red;
+    }
   }
 }
 

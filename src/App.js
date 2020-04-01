@@ -18,15 +18,12 @@ function App() {
         <Route exact path="/">
           <Poster />
         </Route>
-        <Route path="/overlay">
-          <Poster>
-            <Overlay />
-          </Poster>
-        </Route>
         <Route path="/popup">
           <Poster>
-            <Overlay />
-            <Popup />
+            <div>
+              <Overlay />
+              <Popup />
+            </div>
           </Poster>
         </Route>
       </Switch>
