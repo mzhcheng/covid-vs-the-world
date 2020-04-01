@@ -7,6 +7,7 @@ import {
 
 import Poster from './components/Poster';
 import Overlay from './components/Overlay';
+import Popup from './components/Popup';
 
 import './App.scss';
 
@@ -20,6 +21,12 @@ function App() {
         <Route path="/overlay">
           <Poster>
             <Overlay />
+          </Poster>
+        </Route>
+        <Route path="/popup">
+          <Poster>
+            <Overlay />
+            <Popup />
           </Poster>
         </Route>
       </Switch>

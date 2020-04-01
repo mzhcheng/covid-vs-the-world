@@ -5,7 +5,7 @@ import {
 
 export default () => (
   <Link to="/">
-    <div class="overlay">
+    <div className="overlay">
     </div>
   </Link>
 );
