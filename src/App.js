@@ -6,6 +6,7 @@ import {
 } from "react-router-dom";
 
 import Poster from './components/Poster';
+import Overlay from './components/Overlay';
 
 import './App.scss';
 
@@ -13,8 +14,13 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/">
+        <Route exact path="/">
           <Poster />
+        </Route>
+        <Route path="/overlay">
+          <Poster>
+            <Overlay />
+          </Poster>
         </Route>
       </Switch>
     </Router>
