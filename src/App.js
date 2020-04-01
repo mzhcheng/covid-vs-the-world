@@ -7,7 +7,7 @@ import {
 
 import Poster from './components/Poster';
 
-import './App.css';
+import './App.scss';
 
 function App() {
   return (

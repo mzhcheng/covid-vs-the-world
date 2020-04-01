@@ -1,7 +1,8 @@
 import React from 'react';
 
 const Poster = props => (
-  <div>
+  <div class="poster-body">
+    <div class="title"></div>
     { props.children }
   </div>
 )
