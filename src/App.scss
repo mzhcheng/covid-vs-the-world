@@ -1,5 +1,42 @@
+@font-face {
+  font-family: nimbus;
+  src: url("fonts/nimbus-reg.otf") format("opentype");
+}
+
+$color-dark: #212121;
+$color-light: #484848;
+
 .poster-body {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-rows: 33vh 33vh 33vh;
+  padding: 5em;
+  .title {
+    font-family: nimbus;
+    grid-column: 2 / 4;
+    grid-row: 1 / 2;
+    text-align: right;
+    overflow: hidden;
+    .corona {
+      font-weight: 600;
+      color: $color-dark;
+    }
+    .world {
+      font-weight: 400;
+      color: $color-light;
+    }
+  }
+  .content-1 {
+    font-size: 32px;
+    grid-column: 2 / 4;
+    grid-row: 2 / 4;
+    text-align: right;
+    overflow: hidden;
+    color: $color-light;
+  }
+  .virus-image {
+    grid-column: 1 / 2;
+    grid-row: 2 / 4;
+    justify-self: center;
+  }
 }
