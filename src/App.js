@@ -6,8 +6,6 @@ import {
 } from "react-router-dom";
 
 import Poster from './components/Poster';
-import Overlay from './components/Overlay';
-import Popup from './components/Popup';
 
 import './App.scss';
 
@@ -19,11 +17,7 @@ function App() {
           <Poster />
         </Route>
         <Route path="/popup">
-          <Poster>
-            <div>
-              <Overlay />
-              <Popup />
-            </div>
+          <Poster popupContent={true}>
           </Poster>
         </Route>
       </Switch>
