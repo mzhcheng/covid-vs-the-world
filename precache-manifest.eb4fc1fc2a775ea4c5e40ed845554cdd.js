@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86e42279037b73fe36d8022e4b6bfe58",
+    "revision": "acfa73d2a59d95e1acfb7205b1a3c81b",
     "url": "/covid-vs-the-world/index.html"
   },
   {
-    "revision": "50c8b01c518a72db3a71",
+    "revision": "dd400bc0a3bfb814d66a",
     "url": "/covid-vs-the-world/static/css/main.291f5098.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid-vs-the-world/static/js/2.f38fb092.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "50c8b01c518a72db3a71",
-    "url": "/covid-vs-the-world/static/js/main.cf9ef313.chunk.js"
+    "revision": "dd400bc0a3bfb814d66a",
+    "url": "/covid-vs-the-world/static/js/main.945d98b5.chunk.js"
   },
   {
     "revision": "7536067046682a1da052",
