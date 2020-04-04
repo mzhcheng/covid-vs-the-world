@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/michael-zhang-cheng/covid-vs-the-world/static/css/main.2c4774ed.chunk.css",
-    "main.js": "/michael-zhang-cheng/covid-vs-the-world/static/js/main.b5f7aed4.chunk.js",
-    "main.js.map": "/michael-zhang-cheng/covid-vs-the-world/static/js/main.b5f7aed4.chunk.js.map",
-    "runtime-main.js": "/michael-zhang-cheng/covid-vs-the-world/static/js/runtime-main.65ab1f35.js",
-    "runtime-main.js.map": "/michael-zhang-cheng/covid-vs-the-world/static/js/runtime-main.65ab1f35.js.map",
-    "static/js/2.8f9dbba9.chunk.js": "/michael-zhang-cheng/covid-vs-the-world/static/js/2.8f9dbba9.chunk.js",
-    "static/js/2.8f9dbba9.chunk.js.map": "/michael-zhang-cheng/covid-vs-the-world/static/js/2.8f9dbba9.chunk.js.map",
-    "index.html": "/michael-zhang-cheng/covid-vs-the-world/index.html",
-    "precache-manifest.a397d8f7da1b4aeecf214a5acd9f35a7.js": "/michael-zhang-cheng/covid-vs-the-world/precache-manifest.a397d8f7da1b4aeecf214a5acd9f35a7.js",
-    "service-worker.js": "/michael-zhang-cheng/covid-vs-the-world/service-worker.js",
-    "static/css/main.2c4774ed.chunk.css.map": "/michael-zhang-cheng/covid-vs-the-world/static/css/main.2c4774ed.chunk.css.map",
-    "static/js/2.8f9dbba9.chunk.js.LICENSE.txt": "/michael-zhang-cheng/covid-vs-the-world/static/js/2.8f9dbba9.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/michael-zhang-cheng/covid-vs-the-world/static/media/nimbus-reg.ef36b2c9.otf",
-    "static/media/virus.gif": "/michael-zhang-cheng/covid-vs-the-world/static/media/virus.2d7d3b99.gif"
+    "main.css": "/covid-vs-the-world/static/css/main.291f5098.chunk.css",
+    "main.js": "/covid-vs-the-world/static/js/main.cf9ef313.chunk.js",
+    "main.js.map": "/covid-vs-the-world/static/js/main.cf9ef313.chunk.js.map",
+    "runtime-main.js": "/covid-vs-the-world/static/js/runtime-main.8c048e6d.js",
+    "runtime-main.js.map": "/covid-vs-the-world/static/js/runtime-main.8c048e6d.js.map",
+    "static/js/2.f38fb092.chunk.js": "/covid-vs-the-world/static/js/2.f38fb092.chunk.js",
+    "static/js/2.f38fb092.chunk.js.map": "/covid-vs-the-world/static/js/2.f38fb092.chunk.js.map",
+    "index.html": "/covid-vs-the-world/index.html",
+    "precache-manifest.0ca8c32521f2dce2a59346f3d10b0005.js": "/covid-vs-the-world/precache-manifest.0ca8c32521f2dce2a59346f3d10b0005.js",
+    "service-worker.js": "/covid-vs-the-world/service-worker.js",
+    "static/css/main.291f5098.chunk.css.map": "/covid-vs-the-world/static/css/main.291f5098.chunk.css.map",
+    "static/js/2.f38fb092.chunk.js.LICENSE.txt": "/covid-vs-the-world/static/js/2.f38fb092.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/covid-vs-the-world/static/media/nimbus-reg.ef36b2c9.otf",
+    "static/media/virus.gif": "/covid-vs-the-world/static/media/virus.2d7d3b99.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.65ab1f35.js",
-    "static/js/2.8f9dbba9.chunk.js",
-    "static/css/main.2c4774ed.chunk.css",
-    "static/js/main.b5f7aed4.chunk.js"
+    "static/js/runtime-main.8c048e6d.js",
+    "static/js/2.f38fb092.chunk.js",
+    "static/css/main.291f5098.chunk.css",
+    "static/js/main.cf9ef313.chunk.js"
   ]
 }
